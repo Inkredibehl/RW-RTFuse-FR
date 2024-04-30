@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CompRTFuse_SurgeMitigation>Atténue jusqu'à {0} Wd de décharge électrique.</CompRTFuse_SurgeMitigation>
+	<CompRTFuse_WillBreakdown>Nécessitera des réparations en cas de déclenchement.</CompRTFuse_WillBreakdown>
+	<CompRTFuse_WillFlick>Devra être réinitialisé manuellement en cas de déclenchement.</CompRTFuse_WillFlick>
+
+</LanguageData>

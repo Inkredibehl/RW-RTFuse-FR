@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ResearchProject_RTBasicFuses.label>fusibles basiques</ResearchProject_RTBasicFuses.label>
+	<ResearchProject_RTBasicFuses.description>Permet de fabriquer des fusibles de fortune ; peut être placé n'importe où sur un réseau électrique avec des batteries. Chacun est capable de dissiper en toute sécurité jusqu'à 1800 Wd (trois batteries standard) de décharge, mais nécessitera des réparations s'il est déclenché.</ResearchProject_RTBasicFuses.description>
+
+</LanguageData>

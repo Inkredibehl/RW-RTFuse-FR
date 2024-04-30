@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ResearchProject_RTCircuitBreakers.label>disjoncteurs</ResearchProject_RTCircuitBreakers.label>
+	<ResearchProject_RTCircuitBreakers.description>Permet de construire des disjoncteurs ; peut être placé n'importe où sur un réseau électrique avec des batteries. Chacun est capable de dissiper en toute sécurité jusqu'à 1800 Wd (trois batteries standard) de décharge, et devra être réinitialisé manuellement s'il est déclenché.</ResearchProject_RTCircuitBreakers.description>
+
+</LanguageData>
